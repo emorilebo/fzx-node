@@ -1,0 +1,15 @@
+{
+  "name": "docker-tutorial",
+  "version": "1.0.0",
+  "description": "Docker tutorial for FZX",
+  "main": "server.js",
+  "scripts": {
+    "start"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Godfrey Lebo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
